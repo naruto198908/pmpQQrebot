@@ -52,7 +52,7 @@ import cnpat.util.RegFactory;
  */
 public class QQRebort {
 	public static String username = "1810287483";// 2596258135
-	public static String passwd = "naruto.19890810";
+	public static String passwd = "这里填QQ密码";
 	public static final String clientid = "53999199";
 	protected static final String QunMsg = "这个群是干嘛的？";
 	private static final String FriendMsg = "你好，嘎哈呢";
