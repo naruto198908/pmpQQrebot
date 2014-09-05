@@ -2,7 +2,7 @@ pmpQQrebot
 ==========
 
 pmp自动发题机器人
-
+建议用jdk7编译运行
 pmp发题业务逻辑都在QQRebort2.java这个文件中。。。
 其他的文件无需关注太多。。
 
